@@ -1,1 +1,1 @@
-# Dashboard-de-An-lise-de-Sal-rios-na-rea-de-Dados
+# Dashboard-de-Analise-de-Salarios-na-area-de-Dados
